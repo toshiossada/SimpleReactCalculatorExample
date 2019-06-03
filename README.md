@@ -1,2 +1,2 @@
 # SimpleReactCalculatorExample
-Um simples exemplo de uma calculadora em react
+Para executar no Expo utilize npm start
